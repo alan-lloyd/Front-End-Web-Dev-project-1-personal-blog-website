@@ -2,14 +2,10 @@
 .photo1 {
   border: 2px solid black;
   padding: 25px;
-  background: url(town-hall.jpg);
+  background: url(../images/town-hall.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
-
-
-
-
 
 
 .photo2
@@ -24,7 +20,7 @@ background-image:
 .photo3
 {
 background-image:
- url("../images/silchester-mosaic2.jpg");
+ url(../images/silchester-mosaic2.jpg);
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
@@ -33,7 +29,7 @@ background-image:
 .photo4
 {
 background-image:
-url("../images/stupid-harold.jpg");
+url(../images/stupid-harold.jpg);
 padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
@@ -42,7 +38,7 @@ padding: 25px;
 .photo5
 {
 background-image:
- url("../images/battle-hastings.jpg");
+ url(../images/battle-hastings.jpg);
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;

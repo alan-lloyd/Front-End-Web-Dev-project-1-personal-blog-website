@@ -2,7 +2,9 @@
 {
 background-image: 
  url("town-hall.jpg");
-  background-size: 300px 300px;
+  background-size: 50% 50%;
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 .photo2

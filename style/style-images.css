@@ -11,16 +11,16 @@
 
 
 
-/*
+
 .photo2
 {
 background-image:
- url("../images/silchester-mosaic.jpg");
+ url(../images/silchester-mosaic.jpg);
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
 }
-
+/*
 .photo3
 {
 background-image:

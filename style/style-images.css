@@ -3,7 +3,8 @@
 background-image: 
  url("town-hall.jpg");
   background-size: 50% 50%;
-    background-position: center; /* Center the image */
+  background-size: contain;
+  background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
 }
 

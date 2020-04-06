@@ -2,30 +2,34 @@
 {
 background-image: 
  url("town-hall.jpg");
-  background-size: 300px 200px;
+  background-size: 300px 300px;
 }
 
 .photo2
 {
 background-image:
  url("../images/silchester-mosaic.jpg");
+   background-size: 300px 300px;
 }
 
 .photo3
 {
 background-image:
  url("../images/silchester-mosaic2.jpg");
+   background-size: 300px 300px;
 }
 
 .photo4
 {
 background-image:
  url("../images/stupid-harold.jpg");
+   background-size: 300px 300px;
 }
 
 .photo5
 {
 background-image:
  url("../images/battle-hastings.jpg");
+   background-size: 300px 300px;
 }
 

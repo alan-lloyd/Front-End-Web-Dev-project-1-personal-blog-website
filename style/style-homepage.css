@@ -1,38 +1,6 @@
 
-body{    /* standard for page content */
-    text-align: left;
-    font-family: sans-serif;
-    margin:0 auto;
-    background-color: #ffeee6 ;
-    margin-left: 1cm;
-
-}
-
 h1{
-background-color:#0000ff;
+color:#0000ff;
+text-align: center;
 }
-       /* contains 3 boxes */
-.container {
-    display:flex;
-    width: 80em;
-    height:50em;
-}
-       /* standardise display in 3 boxes */
-.this-textblock {
-    width: 25%;
-    height: 40%;
-    border: 5px solid grey;
-    margin:10px;
-    background-color: lightblue;
-    text-align: center;
-}
-       /*to put curves on image corners, and align imgs */
-img {
-    border-radius: 15px;
-    margin: auto;
-    text-align: center;
-}
-       /*to put space above/below bullet points */
-li {
-  line-height: 30px;
-}
+

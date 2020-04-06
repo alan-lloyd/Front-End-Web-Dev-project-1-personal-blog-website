@@ -1,11 +1,16 @@
-.photo1
-{
-background-image:url("town-hall.jpg");
- background-size: 300px 600px;
-  background-size: contain; 
- background-position: center;   
-  background-repeat: no-repeat;  
+
+.photo1 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(town-hall.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
+
+
+
+
+
 /*
 .photo2
 {

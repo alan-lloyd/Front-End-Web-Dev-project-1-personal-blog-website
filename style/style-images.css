@@ -1,25 +1,30 @@
-.photo1:
+.photo1
 {
-background-image:url("../images/town-hall.jpg");
+background-image: 
+ url("../images/town-hall.jpg");
 }
 
-.photo2:
+.photo2
 {
-background-image:url("../images/silchester-mosaic.jpg");
+background-image:
+ url("../images/silchester-mosaic.jpg");
 }
 
-.photo3:
+.photo3
 {
-background-image:url("../images/silchester-mosaic2.jpg");
+background-image:
+ url("../images/silchester-mosaic2.jpg");
 }
 
-.photo4:
+.photo4
 {
-background-image:url("../images/stupid-harold.jpg");
+background-image:
+ url("../images/stupid-harold.jpg");
 }
 
-.photo5:
+.photo5
 {
-background-image:url("../images/battle-hastings.jpg");
+background-image:
+ url("../images/battle-hastings.jpg");
 }
 

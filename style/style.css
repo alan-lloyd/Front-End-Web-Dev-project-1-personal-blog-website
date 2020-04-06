@@ -1,7 +1,7 @@
 /* CSS file 'style'*/
 
 @import "./style-images";
-@import "style-homepage.css";
+@import ".\style-homepage";
 @import "./style-blogpage";
 @import "./style-form";
 

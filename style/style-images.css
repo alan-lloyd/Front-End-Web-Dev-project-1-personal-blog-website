@@ -2,7 +2,7 @@
 .photo1 {
   border: 2px solid black;
   padding: 25px;
-  background: url(../images/town-hall.jpg);
+  background-image: url(../images/town-hall.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -15,6 +15,7 @@ background-image:
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
+  border: 2px solid black;
 }
 
 .photo3
@@ -24,6 +25,7 @@ background-image:
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
+  border: 2px solid black;
 }
 
 .photo4
@@ -33,6 +35,7 @@ url(../images/stupid-harold.jpg);
 padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
+  border: 2px solid black;
 }
 
 .photo5
@@ -42,5 +45,6 @@ background-image:
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
+  border: 2px solid black;
 }
 

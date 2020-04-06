@@ -1,44 +1,25 @@
-/* CSS file 'style' to use with HTML file 'index.html', and 'images' folder containing file 'html-in-use.jpg',
-  made by Udacity Introduction to Programming nano-degree student Alan Lloyd 21-08-2016*/
-*{       /*arranges boxes in order (not in vertical display, but left to right)  */
-     box-sizing: border-box;
+#photo1
+{
+background-image:url("images/town-hall.jpg");
 }
 
-*{      /*for multi-browser compatability for box-sizing */
-    -webkit-box-sizing:border-box;
-    -moz-box-sizing:border-box;
-    -ms-box-sizing:border-box;
+#photo2
+{
+background-image:url("images/silchester-mosaic.jpg");
 }
 
-body{    /* standard for page content */
-    text-align: left;
-    font-family: sans-serif;
-    margin:0 auto;
-    background-color: #ffeee6 ;
-    margin-left: 1cm;
+#photo3
+{
+background-image:url("images/silchester-mosaic2.jpg");
 }
-       /* contains 3 boxes */
-.container {
-    display:flex;
-    width: 80em;
-    height:50em;
+
+#photo4
+{
+background-image:url("images/stupid-harold.jpg");
 }
-       /* standardise display in 3 boxes */
-.this-textblock {
-    width: 25%;
-    height: 40%;
-    border: 5px solid grey;
-    margin:10px;
-    background-color: lightblue;
-    text-align: center;
+
+#photo5
+{
+background-image:url("images/battle-hastings.jpg");
 }
-       /*to put curves on image corners, and align imgs */
-img {
-    border-radius: 15px;
-    margin: auto;
-    text-align: center;
-}
-       /*to put space above/below bullet points */
-li {
-  line-height: 30px;
-}
+

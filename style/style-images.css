@@ -16,28 +16,36 @@
 {
 background-image:
  url("../images/silchester-mosaic.jpg");
-   background-size: 300px 300px;
+ padding: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .photo3
 {
 background-image:
  url("../images/silchester-mosaic2.jpg");
-   background-size: 300px 300px;
+ padding: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .photo4
 {
 background-image:
- url("../images/stupid-harold.jpg");
-   background-size: 300px 300px;
+url("../images/stupid-harold.jpg");
+padding: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .photo5
 {
 background-image:
  url("../images/battle-hastings.jpg");
-   background-size: 300px 300px;
+ padding: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 */

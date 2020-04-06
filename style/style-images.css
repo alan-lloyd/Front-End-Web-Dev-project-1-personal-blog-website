@@ -1,8 +1,8 @@
 .photo1
 {
 background-image:url("town-hall.jpg");
-  background-size: 300px 700px;
- /* background-size: contain; */
+ /* background-size: 300px 700px;
+  background-size: contain; */
  /* background-position: center;  Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
 }

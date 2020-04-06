@@ -1,7 +1,8 @@
-p{
-color:#ff0000;
+html {
+    background: #f00;
 }
 
-html {
-    background: #fff;
+body {
+    margin: auto;
+    width: 50%;
 }

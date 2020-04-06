@@ -2,8 +2,7 @@
 {
 background-image: 
  url("town-hall.jpg");
-  height: 200px;
-  width: 50%;
+  background-size: 300px 200px;
 }
 
 .photo2

@@ -5,6 +5,10 @@ body{    /* standard for page content */
     margin:0 auto;
     background-color: #ffeee6 ;
     margin-left: 1cm;
+
+}
+
+h1{
 background-color:blue;
 }
        /* contains 3 boxes */

@@ -1,8 +1,4 @@
-footer
-{
-display:flex;
-)
 
-footer > div:nth-child(3) {
-    margin-left: auto;
+footer {
+  display: block;
 }

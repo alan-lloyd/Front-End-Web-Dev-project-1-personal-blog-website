@@ -2,7 +2,7 @@
 {
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 40px 30px 200px 200px 150px 40px
+grid-template-rows: 5% 10% 35% 25% 10% 5%
 grid-template-areas:
 "mpt"
 "hd"

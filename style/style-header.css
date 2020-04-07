@@ -1,6 +1,7 @@
 header
 {
 display:flex;
+border: 2px solid black;
 )
 
 header > div:nth-child(3) {

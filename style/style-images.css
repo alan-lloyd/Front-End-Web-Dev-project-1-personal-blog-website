@@ -15,6 +15,8 @@
 {
 background-image:
  url(../images/silchester-mosaic.jpg);
+   border: 2px solid black;
+
  padding: 25px;
   background-repeat: no-repeat;
   background-size: contain;
@@ -26,6 +28,7 @@ background-image:
 background-image:
  url(../images/silchester-mosaic2.jpg);
  padding: 25px;
+ border: 2px solid black;
   background-repeat: no-repeat;
   background-size: contain;
   border: 2px solid black;
@@ -36,6 +39,7 @@ background-image:
 background-image:
 url(../images/stupid-harold.jpg);
 padding: 25px;
+border: 2px solid black;
   background-repeat: no-repeat;
   background-size: contain;
   border: 2px solid black;
@@ -46,6 +50,7 @@ padding: 25px;
 background-image:
  url(../images/battle-hastings.jpg);
  padding: 25px;
+ border: 2px solid black;
   background-repeat: no-repeat;
   background-size: contain;
   border: 2px solid black;

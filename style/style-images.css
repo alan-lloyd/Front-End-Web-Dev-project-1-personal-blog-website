@@ -4,6 +4,8 @@
   padding: 25px;
  /* background-image: url(../images/town-hall.jpg); */
   background-repeat: no-repeat;
+  height:300px;
+  width:600px;
   background-size: contain;
 
 }

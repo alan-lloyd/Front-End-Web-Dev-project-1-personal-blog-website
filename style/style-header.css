@@ -1,4 +1,4 @@
-header
+.header-items
 	{
 	display:flex;
 	flex-direction:row;
@@ -6,6 +6,6 @@ header
 	border: 2px solid black;
 	}
 
-header > div:nth-child(3) {
+.header-items > div:nth-child(3) {
     margin-left: auto;
 }

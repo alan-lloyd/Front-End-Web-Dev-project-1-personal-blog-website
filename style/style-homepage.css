@@ -1,3 +1,46 @@
+.container-home-pg
+{
+display:grid;
+grid-template-columns: 300px 300px 300px;
+grid-template-rows: 40px 30px 600px 200px 150px 40px
+grid-template-areas:
+"mpt"
+"hd"
+"art"
+"pic"
+"form"
+"ft"
+}
+
+.page-main-title{
+grid-area:mpt;
+}
+
+.header-items{
+grid-area:hd;
+}
+
+.home-pg-article{
+grid-area:art;
+}
+
+.photo1{
+grid-area:pic;
+}
+
+.subscriber-form{
+grid-area:form;
+}
+
+.footer-text{
+grid-area:ft;
+}
+
+
+
+
+
+}
 
 h1{
    color:black;

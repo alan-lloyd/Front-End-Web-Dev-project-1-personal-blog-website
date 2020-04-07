@@ -1,8 +1,8 @@
 .container-home-pg
 {
 display:grid;
-grid-template-columns:99%;
-grid-template-rows: 50px 30px 150px 100px 150px 50px;
+grid-template-columns:100%;
+grid-template-rows: 40px 30px 200px 200px 150px 40px
 grid-template-areas:
 "mpt"
 "hd"

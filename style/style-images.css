@@ -2,10 +2,10 @@
 .photo1 {
   border: 2px solid black;
   padding: 25px;
-  background-image: url(../images/town-hall.jpg);
+ /* background-image: url(../images/town-hall.jpg); */
   background-repeat: no-repeat;
   background-size: contain;
-  background-text:Reading Museum, in Reading Town Hall buildings;
+
 }
 
 

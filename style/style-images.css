@@ -1,12 +1,12 @@
 
 .photo1 {
   border: 2px solid black;
-  padding: 10px;
+  padding: 5px;
  /* background-image: url(../images/town-hall.jpg); */
   background-repeat: no-repeat;
-  background-height:5%;
-  background-width:15%;
- /* background-size: contain;*/
+/*  background-height:5%;
+  background-width:15%;*/
+  background-size: contain;
 
 }
 

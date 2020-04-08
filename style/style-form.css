@@ -5,3 +5,8 @@
 border: 2px solid black;
 box-shadow: 5px 5px 20px  ;
 }
+
+#form-title
+{
+ text-align:center;
+}

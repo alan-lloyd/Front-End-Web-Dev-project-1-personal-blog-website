@@ -7,9 +7,25 @@
 	align-items:center;
 	border: 2px solid black;
 	margin:10px;
-justify-content:space-around;
+ 
 	}
 
-.header-items > div:nth-child(3) {
+/*.header-items > div:nth-child(3) {
     margin-left: auto;
+}*/
+
+.home-main-pg{
+flex:1;
 }
+
+.blog-post-link{
+flex:2;
+}
+
+.search{
+flex:3;
+}
+
+
+
+

@@ -3,7 +3,7 @@
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 10% 10% 39% 14% 15% 12%;
+grid-template-rows: 10% 10% 37% 15% 15% 13%;
 grid-template-areas:
 "mpt"
 "hd"
@@ -24,7 +24,6 @@ grid-area:hd;
 
 .home-pg-article{
 grid-area:art;
-margin:2%;
 border: 2px solid black;
 border-radius: 15px;
 text-align: center;

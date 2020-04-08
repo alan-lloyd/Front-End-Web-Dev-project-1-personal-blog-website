@@ -15,6 +15,7 @@ grid-template-areas:
 
 .page-main-title{
 grid-area:mpt;
+text-align: center;
 }
 
 .header-items{

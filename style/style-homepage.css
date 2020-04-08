@@ -62,7 +62,7 @@ p
 {
 margin:3%;
 border: 2px solid black;
-border-radius:5%;
+border-radius 10px;
 text-align: center;
 }
 

@@ -60,6 +60,6 @@ p
 .home-pg-article
 {
 margin:3%;
-box-shadow: 10px 10px #F5F5F5;
+border: 2px solid black;
 border-radius:3%;
 }

@@ -24,6 +24,10 @@ grid-area:hd;
 
 .home-pg-article{
 grid-area:art;
+margin:3%;
+border: 2px solid black;
+border-radius 25px;
+text-align: center;
 }
 
 .photo1{
@@ -58,13 +62,7 @@ p
     font-family:verdana;
  }
 
-.home-pg-article
-{
-margin:3%;
-border: 2px solid black;
-border-radius 25px;
-text-align: center;
-}
+ 
 
 .home-page-article-paras{
 text-align: center;

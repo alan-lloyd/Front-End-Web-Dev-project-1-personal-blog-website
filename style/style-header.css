@@ -7,9 +7,9 @@
 	align-items:center;
 	border: 2px solid black;
 	margin:10px;
- 
+ justify-content:space-around;
 	}
-
+/*
 /*.header-items > div:nth-child(3) {
     margin-left: auto;
 }*/
@@ -26,6 +26,6 @@ flex:2;
 flex:3;
 }
 
-
+*/
 
 

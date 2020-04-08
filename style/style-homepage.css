@@ -28,7 +28,7 @@ grid-area:art;
 
 .photo1{
 grid-area:pic;
- 
+ text-align: center;
 }
 
 .subscriber-form{
@@ -63,4 +63,5 @@ p
 margin:3%;
 border: 2px solid black;
 border-radius:5%;
+text-align: center;
 }

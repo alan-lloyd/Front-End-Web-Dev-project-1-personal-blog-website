@@ -3,7 +3,7 @@
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 6% 6% 41% 19% 15% 13%;
+grid-template-rows: 6% 6% 38% 22% 15% 13%;
 grid-template-areas:
 "mpt"
 "hd"

@@ -1,6 +1,7 @@
 .header-items
 	{
 	font-size:1.5em;
+	padding:5px;
 	display:flex;
 	flex-direction:row;
 	align-items:center;

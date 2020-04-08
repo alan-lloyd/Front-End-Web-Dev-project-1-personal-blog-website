@@ -2,7 +2,7 @@
 .photo1 {
   border: 2px solid black;
   
- /* background-image: url(../images/town-hall.jpg); */
+ 
   background-repeat: no-repeat;
  
 box-shadow: 5px 5px 20px  ;
@@ -54,3 +54,6 @@ background-image:
   border: 2px solid black;
 }
 
+figcaption{
+font-size:1.5em;
+}

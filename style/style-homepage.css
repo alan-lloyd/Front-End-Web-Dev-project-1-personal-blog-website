@@ -1,5 +1,6 @@
 .container-home-pg
 {
+background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
 grid-template-rows: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;

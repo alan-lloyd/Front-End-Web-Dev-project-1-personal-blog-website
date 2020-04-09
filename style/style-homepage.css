@@ -60,7 +60,7 @@ grid-template-areas:
 "hd hd"
 "mpt mpt"
 "art art"
-"pic pic"
+"pic pict"
 "form form"
 "ft ft";
 }
@@ -70,15 +70,10 @@ grid-area:pic;
  text-align: center;
 }
 .photo-extra{
-grid-area:pic;
+grid-area:pict;
  text-align: center;
 }
- .extra-img-combo{
-	display:flex;
-	flex-direction:row;
-	justify-content:space-evenly;
-	margin:5px;
-}
+ 
 } 
 
 

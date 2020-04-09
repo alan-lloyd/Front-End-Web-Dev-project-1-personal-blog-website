@@ -20,8 +20,10 @@ background-image:
 
  padding:  5px;
   background-repeat: no-repeat;
-  background-size: contain;
+
   border: 2px solid black;
+height:300px;
+width:350px;
 }
 
 .photo3
@@ -31,8 +33,11 @@ background-image:
  padding:  5px;
  border: 2px solid black;
   background-repeat: no-repeat;
-  background-size: contain;
+ 
   border: 2px solid black;
+height:300px;
+width:350px;
+}
 }
 
 .photo4
@@ -42,8 +47,11 @@ url(../images/stupid-harold.jpg);
 padding:  5px;
 border: 2px solid black;
   background-repeat: no-repeat;
-  background-size: contain;
+
   border: 2px solid black;
+height:300px;
+width:350px;
+}
 }
 
 .photo5
@@ -53,8 +61,11 @@ background-image:
  padding: 5px;
  border: 2px solid black;
   background-repeat: no-repeat;
-  background-size: contain;
+
   border: 2px solid black;
+height:300px;
+width:350px;
+}
 }
 
 figcaption{

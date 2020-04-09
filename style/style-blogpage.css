@@ -1,7 +1,6 @@
 .blog-card {
 border: 2px solid black ;
 box-shadow: 5px 5px 20px  ;
- 
 max-width: 100%;
 margin:20px;
 border-radius:10px;
@@ -10,7 +9,6 @@ border-radius:10px;
 .blog-text {
 border: 2px solid black ;
 box-shadow: 5px 5px 20px  ;
- 
 max-width: 100%;
 margin:20px;
 border-radius:10px;
@@ -20,3 +18,50 @@ border-radius:10px;
 font-weight: bold;
 }
 
+.blog-card
+{
+background-color:#eaf9e1;
+display:grid;
+grid-template-columns:100%;
+grid-template-rows: 6fr 2fr 27fr 22fr 22fr 7fr;
+grid-template-areas:
+"mpt"
+"hd"
+"art"
+"pic""
+"ft";
+}
+
+.header-items{
+grid-area:hd;
+}
+
+.blog-posting1-title{
+grid-area:mpt;
+text-align: center;
+}
+
+.blog-card{
+grid-area:art;
+border: 2px solid black;
+border-radius: 15px;
+text-align: center;
+box-shadow:10px 10px;
+}
+
+.photo2 .photo3 .photo4 .photo5{
+grid-area:pic;
+ text-align: center;
+}
+
+ 
+.footer-text{
+grid-area:ft;
+}
+
+
+  
+ 
+
+
+ 

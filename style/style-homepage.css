@@ -55,14 +55,15 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:100px 100px 250px 300px 150px;
+grid-template-rows:100px 100px 250px 150px 150px 150px;
 grid-template-areas:
 "hd hd"
 "mpt mpt"
 "art art"
 "form pic"
+"form pic"
 "ft ft";
-align-self: start
+ 
 }
 .header-items
 	{

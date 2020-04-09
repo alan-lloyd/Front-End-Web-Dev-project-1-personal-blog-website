@@ -67,15 +67,18 @@ grid-template-areas:
 
 .photo1{
 grid-area:pic;
- text-align: left;
-margin:15fr;
+margin:10px;
 }
 .photo-extra{
 grid-area:pict;
- text-align: right;
-margin:15fr;
+margin:10px;
 }
- 
+ .extra-img-combo{
+	padding:3px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
 } 
 
 

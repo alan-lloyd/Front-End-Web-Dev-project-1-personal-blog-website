@@ -50,19 +50,19 @@ grid-area:ft;
 }
  
  
-@media(min-width:950px){
+@media(min-width:900px){
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100% ;
-grid-template-rows:50fr 80px 240fr 340fr 180fr, 60fr;
+grid-template-rows:50fr 70px 240fr 350fr 150fr, 50fr;
 grid-template-areas:
-"hd  "
-"mpt  "
-"art  "
-"pics  "
-"form  "
-"ft  ";
+"hd"
+"mpt"
+"art"
+"pics"
+"form"
+"ft";
 }
  
 
@@ -72,7 +72,7 @@ grid-area:pics;
 }
 .photo-extra {
   grid-area:pics;
- text-align: center;
+ text-align: right;
 }
  
 .home-pg-article{

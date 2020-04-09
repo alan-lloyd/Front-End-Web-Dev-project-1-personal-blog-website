@@ -58,6 +58,11 @@ grid-template-areas:
 "pic pic pic form form form"
 "ft ft ft ft ft ft";
 }
+.photo1{
+grid-area:pic;
+ text-align: left;
+}
+
 }
 
 

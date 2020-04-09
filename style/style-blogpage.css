@@ -25,8 +25,9 @@ display:grid;
 grid-template-columns:100%;
 grid-template-rows: 6fr 2fr 27fr 22fr 22fr 7fr;
 grid-template-areas:
-"mpt"
 "hd"
+"mpt"
+"aut"
 "art"
 "pic""
 "ft";
@@ -41,7 +42,15 @@ grid-area:mpt;
 text-align: center;
 }
 
-.blog-card{
+.blog-card-author{
+grid-area:aut;
+border: 2px solid black;
+border-radius: 15px;
+text-align: center;
+box-shadow:10px 10px;
+}
+
+ .blog-card{
 grid-area:art;
 border: 2px solid black;
 border-radius: 15px;

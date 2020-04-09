@@ -25,9 +25,10 @@ font-weight: bold;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows: 4fr 4fr 8fr 30fr 20fr 5fr;
+grid-template-rows: 4fr 4fr 4fr 8fr 30fr 20fr 5fr;
 grid-template-areas:
 "hd hd hd hd hd hd hd hd"
+"smi smi smi smi smi smi smi smi"
 "mpt mpt mpt mpt mpt mpt mpt mpt"
 "aut aut aut aut aut aut aut aut"
 "art art art art art art art art"
@@ -37,7 +38,10 @@ grid-template-areas:
 
 .header-items{
 grid-area:hd;
-}
+} 
+.social-media-items{
+grid-area:smi;
+} 
 
 .blog-posting1-title{
 grid-area:mpt;

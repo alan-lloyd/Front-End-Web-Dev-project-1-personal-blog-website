@@ -4,9 +4,9 @@ background-image:
  url(../images/town-hall.jpg);
  background-size:contain;
  background-repeat: no-repeat;
- 
+  padding: 25px;
 }
-
+/*
 .photo-extra {
 background-image:
  url(../images/bayeux-start.jpg);
@@ -14,7 +14,7 @@ background-image:
   background-repeat: no-repeat;
 
  
-}
+}*/
 
 .photo2
 {

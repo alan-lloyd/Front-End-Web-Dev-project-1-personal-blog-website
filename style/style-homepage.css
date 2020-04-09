@@ -78,10 +78,15 @@ margin:30px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
-	margin:30px;
+	box-sizing: border-box;
  flex: 48.0%;
-text-align: center;
+
 }
+
+
+
+
+
 .extra-img-combo{
 grid-area:pics;
 

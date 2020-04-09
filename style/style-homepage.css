@@ -11,7 +11,7 @@ grid-template-areas:
 "pic"
 "form"
 "ft";
-
+}
 
 .home-page-article-paras{
 text-align: center;
@@ -52,7 +52,7 @@ grid-area:form;
 .footer-text{
 grid-area:ft;
 }
-}
+
  
  
 

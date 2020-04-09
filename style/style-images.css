@@ -4,10 +4,10 @@ background-image:
  url(../images/town-hall.jpg);
  
  background-repeat: no-repeat;
- height:2600px;
-width:500px;
+ height:260px;
+width:600px;
 margin:10px;
-align:center;
+float:right;
 }
 /*
 .photo-extra {

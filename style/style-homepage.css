@@ -57,33 +57,14 @@ display:grid;
 grid-template-columns:50% 50%;
 grid-template-rows:100fr 110px 320fr 240fr 130fr;
 grid-template-areas:
-"hd hd hd hd hd"
-"mpt mpt mpt mpt mpt"
-"art art art pic pic"
-"form form form form form"
-"ft ft ft ft ft";
+"hd hd hd hd hd hd hd hd"
+"mpt mpt mpt mpt mpt mpt mpt mpt"
+"art art art  art pic pic pic pic"
+"form form form form form form form form"
+"ft ft ft ft ft ft ft ft";
  
 }
-.header-items
-	{
-	font-size:1.0em;
-	padding:3px;
-	display:flex;
-	flex-direction:row;
-	justify-content:space-evenly;
-	margin:2px;
-	}
-
-.form-item1, .form-item2, .form-item3, .form-item4
-{
-padding:3px;
- text-align:left;
-}
- .photo1 {
-  padding:3px;
-  margin:5px;
-  background-repeat: no-repeat;
-}
+ 
 }
 
  

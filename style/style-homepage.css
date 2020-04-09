@@ -68,31 +68,13 @@ grid-template-areas:
 
  .photo1{
 grid-area:pic;
- text-align: center;
+ text-align: left;
 }
 .photo-extra {
   grid-area:pic;
  text-align: center;
 }
-/* .extra-img-combo{
-	padding:13px;
-	display:flex;
-	flex-direction:row;
-	justify-content:space-between;
-	 box-sizing: border-box;
- flex: 50.0%; 
-margin:20px;
-}
-
-.extra-img-combo{
-grid-area:pics;
-}*/
-
-
-.extra-img-combo{
-grid-area:pics;
-
-}
+ 
 .home-pg-article{
 grid-area:art;
 border: 2px solid black;

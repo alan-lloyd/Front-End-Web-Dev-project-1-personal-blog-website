@@ -22,7 +22,7 @@ background-image:
   background-repeat: no-repeat;
 
   border: 2px solid black;
-height:250px;
+height:220px;
 width:250px;
 }
 
@@ -35,10 +35,10 @@ background-image:
   background-repeat: no-repeat;
  
   border: 2px solid black;
-height:250px;
+height:220px;
 width: 250px;
 }
-}
+
 
 .photo4
 {
@@ -49,10 +49,10 @@ border: 2px solid black;
   background-repeat: no-repeat;
 
   border: 2px solid black;
-height:250px;
+height:220px;
 width:250px;
 }
-}
+
 
 .photo5
 {
@@ -63,10 +63,10 @@ background-image:
   background-repeat: no-repeat;
 
   border: 2px solid black;
-height:250px;
+height:220px;
 width:250px;
 }
-}
+
 
 figcaption{
 font-size:1.5em;

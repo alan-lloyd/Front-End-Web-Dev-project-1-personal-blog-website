@@ -27,7 +27,7 @@ display:grid;
 grid-template-columns:50% 50%;
 grid-template-rows: 7fr 7fr 8fr 25fr 24fr 23fr 7fr;
 grid-template-areas:
-"hd hd hd hd"
+"hd hd hd hd hd hd hd hd"
 "mpt mpt mpt mpt mpt mpt mpt mpt"
 "aut aut aut aut aut aut aut aut"
 "art art art art art art art art"

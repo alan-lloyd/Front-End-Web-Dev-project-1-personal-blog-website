@@ -67,11 +67,11 @@ grid-template-areas:
  
 
  .photo1{
-grid-area:pic;
+grid-area:pics;
  text-align: left;
 }
 .photo-extra {
-  grid-area:pic;
+  grid-area:pics;
  text-align: center;
 }
  

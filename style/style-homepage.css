@@ -41,7 +41,8 @@ grid-area:pic;
 
 .img-container{
   display: flex;
-  justify-content: center;
+   flex-direction: row;
+text-align:center;
 }
 
 .img-container{

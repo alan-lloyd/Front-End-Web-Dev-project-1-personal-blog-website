@@ -55,14 +55,13 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:100fr 110px 320fr 240fr 130fr;
+grid-template-rows:80fr 130px 360fr 200fr 130fr;
 grid-template-areas:
-"hd hd hd hd hd hd hd hd"
-"mpt mpt mpt mpt mpt mpt mpt mpt"
-"art art art art art pic pic pic"
-"form form form form form form form form"
-"ft ft ft ft ft ft ft ft";
- 
+"hd hd"
+"mpt mpt"
+"art pic"
+"form form"
+"ft ft";
 }
  
 }

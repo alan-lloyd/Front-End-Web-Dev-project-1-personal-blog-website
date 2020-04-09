@@ -50,7 +50,7 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% auto;
-grid-template-rows:10% 13% 30% 36% 11%;
+grid-template-rows:13% 16% 30% 30% 11%;
 grid-template-areas:
 "mpt mpt mpt"
 "hd hd auto"

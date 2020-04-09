@@ -55,7 +55,7 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100% ;
-grid-template-rows:100fr 160px 330fr 240fr 70fr;
+grid-template-rows:100fr 160px 230fr 240fr 70fr;
 grid-template-areas:
 "hd  "
 "mpt  "
@@ -64,23 +64,25 @@ grid-template-areas:
 "form  "
 "ft  ";
 }
-
+/*
 .photo1{
 grid-area:pic;
-margin:10px;
+margin:30px;
 }
 .photo-extra{
 grid-area:pict;
-margin:10px;
-}
+margin:30px;
+}*/
  .extra-img-combo{
-	padding:3px;
+	padding:13px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
+	margin:30px;
 }
 .extra-img-combo{
 grid-area:pics;
+
 }
 } 
 
@@ -94,7 +96,7 @@ p
  {
     color:black;
     text-align:left;
-    font-size:0.9em;
+    font-size:1.0em;
     font-family:verdana;
  }
 

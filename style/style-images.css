@@ -2,7 +2,7 @@
 .photo1 {
 background-image:
  url(../images/town-hall.jpg);
- background-size:auto;
+ background-size:contain;
  background-repeat: no-repeat;
  
 }
@@ -10,7 +10,7 @@ background-image:
 .photo-extra {
 background-image:
  url(../images/bayeux-start.jpg);
- background-size:auto;
+ background-size:contain;
   background-repeat: no-repeat;
 
  

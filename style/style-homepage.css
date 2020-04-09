@@ -83,7 +83,12 @@ padding:3px;
   margin:5px;
   background-repeat: no-repeat;
 }
-
+.home-pg-article{
+grid-area:art;
+border: 2px solid black;
+border-radius: 15px;
+box-shadow:10px 10px;
+}
 }
 
 

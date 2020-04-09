@@ -3,7 +3,7 @@
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 5% 5% 28% 36% 15% 11%;
+grid-template-rows: 5% 5% 38% 22% 15% 13%;
 grid-template-areas:
 "mpt"
 "hd"
@@ -30,25 +30,11 @@ text-align: center;
 box-shadow:10px 10px;
 }
 
-/*
 .photo1{
 grid-area:pic;
  text-align: center;
 }
-.photo-extra{
-*/
 
-
-.img-container{
-  display: flex;
-   flex-direction: row;
-text-align:center;
- background-size: contain;
-}
-
-.img-container{
-grid-area:pic;
-}
 .subscriber-form{
 grid-area:form;
 }
@@ -58,6 +44,42 @@ grid-area:ft;
 }
 
 
+ /*
+@media(min-width:800px){
+.container-home-pg{
+background-color:#eaf9e1;
+display:grid;
+grid-template-columns:50% 50%;
+grid-template-rows:10% 13% 30% 36% 11%;
+grid-template-areas:
+"mpt mpt"
+"hd hd"
+"art art"
+"pic form"
+"ft ft";
+}
+.header-items
+	{
+	font-size:1.5em;
+	padding:1px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	margin:5px;
+	}
+
+.form-item1, .form-item2, .form-item3, .form-item4
+{
+padding:3px;
+ text-align:right;
+}
+.photo1 {
+  padding:5px;
+  background-repeat: no-repeat;
+ float:left;
+}*/
+
+}
 
 
 

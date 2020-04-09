@@ -27,12 +27,12 @@ display:grid;
 grid-template-columns:50% 50%;
 grid-template-rows: 10fr 10fr 8fr 25fr 26fr 7fr;
 grid-template-areas:
-"hd"
-"mpt"
-"aut"
-"art"
-"pics"
-"ft";
+"hd hd hd hd"
+"mpt mpt mpt mpt"
+"aut aut pics pics"
+"art art art art"
+"pics pics pics pics"
+"ft ft ft ft";
 }
 
 .header-items{

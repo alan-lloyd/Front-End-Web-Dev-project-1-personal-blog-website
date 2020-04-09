@@ -64,7 +64,7 @@ grid-template-areas:
 "form  "
 "ft  ";
 }
-/*
+ 
 .photo1{
 grid-area:pic;
 margin:30px;
@@ -72,13 +72,14 @@ margin:30px;
 .photo-extra{
 grid-area:pict;
 margin:30px;
-}*/
+} 
  .extra-img-combo{
 	padding:13px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
 	margin:30px;
+text-align: center;
 }
 .extra-img-combo{
 grid-area:pics;

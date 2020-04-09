@@ -1,5 +1,6 @@
 
 .photo1 {
+background-image:
  url(../images/town-hall.jpg);
  padding:10px;
  background-repeat: no-repeat;
@@ -8,6 +9,7 @@
 }
 
 .photo-extra {
+background-image:
  url(../images/silchester-mosaic.jpg);
   padding:10px;
   background-repeat: no-repeat;

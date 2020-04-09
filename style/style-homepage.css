@@ -11,6 +11,11 @@ grid-template-areas:
 "pic"
 "form"
 "ft";
+
+
+.home-page-article-paras{
+text-align: center;
+}
 }
 
 .page-main-title{
@@ -99,6 +104,3 @@ p
 
  
 
-.home-page-article-paras{
-text-align: center;
-}

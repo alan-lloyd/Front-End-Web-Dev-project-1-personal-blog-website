@@ -5,19 +5,20 @@ background-image:
  
  background-repeat: no-repeat;
  height:200px;
-width:600px;
+width:400px;
 margin:10px;
-float:right;
+ 
 }
-/*
+ 
 .photo-extra {
 background-image:
  url(../images/bayeux-start.jpg);
- background-size:contain;
+ height:200px;
+width:400px; 
   background-repeat: no-repeat;
-
+margin:10px;
  
-}*/
+} 
 
 .photo2
 {

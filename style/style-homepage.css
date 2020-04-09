@@ -30,11 +30,23 @@ text-align: center;
 box-shadow:10px 10px;
 }
 
+/*
 .photo1{
 grid-area:pic;
  text-align: center;
 }
+.photo-extra{
+*/
 
+
+.img-container{
+  display: flex;
+  justify-content: center;
+}
+
+.img-container{
+grid-area:pic;
+}
 .subscriber-form{
 grid-area:form;
 }

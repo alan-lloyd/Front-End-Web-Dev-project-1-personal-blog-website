@@ -2,19 +2,19 @@
 .photo1 {
 background-image:
  url(../images/town-hall.jpg);
- padding:10px;
+ 
  background-repeat: no-repeat;
  background-size: contain;
-
+ margin:15px;
 }
 
 .photo-extra {
 background-image:
  url(../images/bayeux-start.jpg);
-  padding:10px;
+ 
   background-repeat: no-repeat;
  background-size: contain;
-
+margin:15px;
 }
 
 .photo2

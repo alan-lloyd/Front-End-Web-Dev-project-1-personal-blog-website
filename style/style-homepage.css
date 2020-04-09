@@ -67,20 +67,20 @@ grid-template-areas:
  
 .photo1{
 grid-area:pic;
-margin:30px;
+ 
 }
 .photo-extra{
 grid-area:pict;
-margin:30px;
+ 
 } 
  .extra-img-combo{
 	padding:13px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-between;
-	box-sizing: border-box;
- flex: 48.0%;
-
+	/*box-sizing: border-box;
+ flex: 50.0%;*/
+margin:20px;
 }
 
 

@@ -45,7 +45,6 @@ grid-area:ft;
 
 
  
-/*
 @media(min-width:800px){
 .container-home-pg{
 background-color:#eaf9e1;
@@ -68,9 +67,15 @@ grid-template-areas:
 	justify-content:space-evenly;
 	margin:5px;
 	}
+.form-item1, .form-item2, .form-item3, .form-item4
+{
+padding:3px;
+ text-align:right;
+}
 }
 
- */
+
+
 
 h1{
    color:black;

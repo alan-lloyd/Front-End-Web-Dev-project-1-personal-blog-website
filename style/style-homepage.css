@@ -62,6 +62,7 @@ grid-template-areas:
 "art art"
 "form pic"
 "ft ft";
+align-self: start
 }
 .header-items
 	{

@@ -1,13 +1,13 @@
 
 .photo1 {
 background-image:
- url(../images/town-hall.jpg);
+ url(../images/town-hall-2.jpg);
     border: 2px solid black;
 vertical-align:middle;
- padding:  5px;
+ 
  background-repeat: no-repeat;
- height420px;
-width:450px; 
+ height900px;
+width:432px; 
 
  
 }

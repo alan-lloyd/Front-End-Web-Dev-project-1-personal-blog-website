@@ -51,7 +51,7 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:10% 13% 40% 26% 11%;
+grid-template-rows:10% 13% 30% 36% 11%;
 grid-template-areas:
 "mpt mpt"
 "hd hd"
@@ -66,7 +66,7 @@ grid-template-areas:
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
-	margin:3px;
+	margin:5px;
 	}
 }
 

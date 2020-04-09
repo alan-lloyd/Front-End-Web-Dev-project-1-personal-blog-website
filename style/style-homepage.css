@@ -50,12 +50,12 @@ grid-area:ft;
 
  
  
-@media(min-width:900px){
+@media(min-width:940px){
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100% ;
-grid-template-rows:100fr 160px 230fr 240fr 70fr;
+grid-template-rows:100fr 100px 250fr 270fr 150fr, 70fr;
 grid-template-areas:
 "hd  "
 "mpt  "

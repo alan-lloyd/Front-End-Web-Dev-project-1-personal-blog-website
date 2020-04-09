@@ -50,12 +50,12 @@ grid-area:ft;
 
 
  
-@media(min-width:1000px){
+@media(min-width:900px){
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:200px 200px 200px 200px 200px;
+grid-template-rows:100px 100px 250px 300px 150px;
 grid-template-areas:
 "hd hd"
 "mpt mpt"
@@ -77,7 +77,7 @@ align-self: start
 .form-item1, .form-item2, .form-item3, .form-item4
 {
 padding:3px;
- text-align:right;
+ text-align:left;
 }
  .photo1 {
   padding:3px;

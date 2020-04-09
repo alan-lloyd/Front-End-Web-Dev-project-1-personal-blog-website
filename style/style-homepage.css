@@ -49,14 +49,14 @@ grid-area:ft;
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:100;
+grid-template-columns:100%;
 grid-template-rows:auto auto auto auto auto;
 grid-template-areas:
-"mpt mpt mpt"
-"hd hd auto"
-"art art auto"
-"pic form auto"
-"ft ft ft";
+"mpt mpt "
+"hd hd  "
+"art art  "
+"pic form "
+"ft ft ";
 }
 .header-items
 	{

@@ -24,7 +24,7 @@ font-weight: bold;
 {
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:100%;
+grid-template-columns:50% 50%;
 grid-template-rows: 10fr 10fr 8fr 25fr 26fr 7fr;
 grid-template-areas:
 "hd"
@@ -52,7 +52,7 @@ text-align: center;
 box-shadow:10px 10px;
 }
 
-.blog-card{
+.blog-text{
 grid-area:art;
 }
 

@@ -27,8 +27,8 @@ display:grid;
 grid-template-columns:100%;
 grid-template-rows: 10fr 10fr 8fr 25fr 26fr 7fr;
 grid-template-areas:
-"mpt"
 "hd"
+"mpt"
 "aut"
 "art"
 "pics"

@@ -52,65 +52,16 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:10% 10% 29% 38% 13%;
+grid-template-rows:10% 10% 39% 28% 13%;
 grid-template-areas:
-"mpt mpt mpt mpt mpt mpt"
-"hd hd hd hd hd hd"
-"art art art art art art"
-"pic pic pic form form form"
-"ft ft ft ft ft ft";
+"mpt mpt mpt mpt mpt mpt mpt mpt"
+"hd hd hd hd hd hd hd hd"
+"art art art art art art art art"
+"pic pic pic pic form form form form"
+"ft ft ft ft ft ft ft ft";
 }
 
-.page-main-title{
-grid-area:mpt;
-text-align: center;
 }
-
-.header-items{
-grid-area:hd;
-}
-
-.home-pg-article{
-grid-area:art;
-border: 2px solid black;
-border-radius: 15px;
-text-align: center;
-box-shadow:10px 10px;
-}
-
-.photo1{
-grid-area:pic;
- 
-}
-
-.subscriber-form{
-grid-area:form;
-}
-
-.footer-text{
-grid-area:ft;
-} 
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -4,8 +4,10 @@ box-shadow: 5px 5px 20px  ;
 max-width: 100%;
 margin:5px;
 border-radius:10px;
+text-align: center;
 }
- 
+
+
 .blog-text {
 border: 2px solid black ;
 box-shadow: 5px 5px 20px  ;
@@ -23,7 +25,7 @@ font-weight: bold;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 10fr 10fr 19fr 27fr 27fr 7fr;
+grid-template-rows: 10fr 10fr 8fr 25fr 26fr 7fr;
 grid-template-areas:
 "mpt"
 "hd"
@@ -52,10 +54,6 @@ box-shadow:10px 10px;
 
 .blog-card{
 grid-area:art;
-border: 2px solid black;
-border-radius: 15px;
-text-align: center;
-box-shadow:10px 10px;
 }
 
 .blog-pg-nested-grid{

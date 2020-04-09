@@ -1,13 +1,19 @@
 
 .photo1 {
-  
-  padding:15px;
- 
-  background-repeat: no-repeat;
- 
- 
+ url(../images/town-hall.jpg);
+ padding:10px;
+ background-repeat: no-repeat;
+ background-size: contain;
+
 }
 
+.photo-extra {
+ url(../images/silchester-mosaic.jpg);
+  padding:10px;
+  background-repeat: no-repeat;
+ background-size: contain;
+
+}
 
 .photo2
 {

@@ -59,18 +59,23 @@ grid-template-rows:100fr 160px 270fr 270fr 100fr;
 grid-template-areas:
 "hd hd"
 "mpt mpt"
-"art pic"
+"art art"
+"pic pic"
 "form form"
 "ft ft";
 }
- .article-img-combo{
+
+.photo-extra{
+grid-area:pic;
+ text-align: center;
+}
+ .extra-img-combo{
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
 	margin:5px;
 }
-
- 
+} 
 
 
 h1{

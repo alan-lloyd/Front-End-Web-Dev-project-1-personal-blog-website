@@ -65,7 +65,7 @@ grid-template-areas:
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
-	margin:5px;
+	margin:2px;
 	}
 
 .form-item1, .form-item2, .form-item3, .form-item4

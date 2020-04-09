@@ -79,6 +79,7 @@ margin:30px;
 	flex-direction:row;
 	justify-content:space-evenly;
 	margin:30px;
+ flex: 48.0%;
 text-align: center;
 }
 .extra-img-combo{

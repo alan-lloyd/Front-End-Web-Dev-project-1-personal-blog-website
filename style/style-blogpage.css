@@ -29,7 +29,7 @@ grid-template-areas:
 "hd"
 "aut"
 "art"
-"pic"
+"pics"
 "ft";
 }
 
@@ -58,9 +58,14 @@ text-align: center;
 box-shadow:10px 10px;
 }
 
-.photo2 .photo3 .photo4 .photo5{
-grid-area:pic;
- text-align: center;
+.blog-pg-nested-grid{
+grid-area:pics;
+}
+
+.blog-pg-nested-grid{
+display:grid;
+grid-template-columns:50% 50%;
+grid-template-rows: 50% 50%;
 }
 
  

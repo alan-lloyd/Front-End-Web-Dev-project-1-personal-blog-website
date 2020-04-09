@@ -65,26 +65,22 @@ grid-template-areas:
 "ft  ";
 }
  
-.photo1{
-grid-area:pic;
+
  
-}
-.photo-extra{
-grid-area:pict;
- 
-} 
+  
  .extra-img-combo{
 	padding:13px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-between;
-	/*box-sizing: border-box;
- flex: 50.0%;*/
+	 box-sizing: border-box;
+ flex: 50.0%; 
 margin:20px;
 }
 
-
-
+.extra-img-combo{
+grid-area:pics;
+}
 
 
 .extra-img-combo{

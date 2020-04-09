@@ -68,10 +68,12 @@ grid-template-areas:
 .photo1{
 grid-area:pic;
  text-align: center;
+margin:10fr;
 }
 .photo-extra{
 grid-area:pict;
  text-align: center;
+margin:10fr;
 }
  
 } 

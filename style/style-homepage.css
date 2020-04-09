@@ -55,7 +55,7 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:80fr 130px 360fr 200fr 130fr;
+grid-template-rows:100fr 160px 270fr 270fr 100fr;
 grid-template-areas:
 "hd hd"
 "mpt mpt"

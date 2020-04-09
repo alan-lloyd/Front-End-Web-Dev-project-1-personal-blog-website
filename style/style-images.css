@@ -15,7 +15,7 @@ width:900px;
 .photo2
 {
 background-image:
- url(../images/silchester-mosaic.jpg);
+ url(../images/silchester-mosaic-small.jpg);
    border: 2px solid black;
 
  padding:  5px;
@@ -29,7 +29,7 @@ width:350px;
 .photo3
 {
 background-image:
- url(../images/silchester-mosaic2.jpg);
+ url(../images/silchester-mosaic2-small.jpg);
  padding:  5px;
  border: 2px solid black;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@ width:350px;
 .photo4
 {
 background-image:
-url(../images/stupid-harold.jpg);
+url(../images/stupid-harold-small.jpg);
 padding:  5px;
 border: 2px solid black;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@ width:350px;
 .photo5
 {
 background-image:
- url(../images/battle-hastings.jpg);
+ url(../images/battle-hastings-small.jpg);
  padding: 5px;
  border: 2px solid black;
   background-repeat: no-repeat;

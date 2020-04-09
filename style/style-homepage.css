@@ -87,6 +87,14 @@ grid-area:pics;
 grid-area:pics;
 
 }
+.home-pg-article{
+grid-area:art;
+border: 2px solid black;
+border-radius: 15px;
+text-align: center;
+box-shadow:10px 10px;
+}
+
 } 
 
 

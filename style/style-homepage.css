@@ -43,6 +43,7 @@ grid-area:pic;
   display: flex;
    flex-direction: row;
 text-align:center;
+ background-size: contain;
 }
 
 .img-container{

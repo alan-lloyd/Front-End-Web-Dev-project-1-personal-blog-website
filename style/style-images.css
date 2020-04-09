@@ -7,7 +7,7 @@ background-image:
  /*height:200px;
 width:400px;*/
 margin:10px;
-  background-size: contain;
+ 
 }
  
 .photo-extra {
@@ -17,7 +17,7 @@ background-image:
 width:300px; */
   background-repeat: no-repeat;
 margin:10px;
-  background-size: contain;
+  
 } 
 
 .photo2

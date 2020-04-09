@@ -54,15 +54,15 @@ grid-area:ft;
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:50% 50%;
+grid-template-columns:100% ;
 grid-template-rows:100fr 160px 330fr 240fr 70fr;
 grid-template-areas:
-"hd hd"
-"mpt mpt"
-"art art"
-"pic pict"
-"form form"
-"ft ft";
+"hd  "
+"mpt  "
+"art  "
+"pics  "
+"form  "
+"ft  ";
 }
 
 .photo1{
@@ -78,6 +78,9 @@ margin:10px;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
+}
+.extra-img-combo{
+grid-area:pics;
 }
 } 
 

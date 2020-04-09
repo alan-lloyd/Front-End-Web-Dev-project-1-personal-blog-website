@@ -72,6 +72,12 @@ grid-template-areas:
 padding:3px;
  text-align:right;
 }
+.photo1 {
+  padding:5px;
+  background-repeat: no-repeat;
+ float:left;
+}
+
 }
 
 

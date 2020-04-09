@@ -43,7 +43,9 @@ grid-area:form;
 grid-area:ft;
 }
 
-/*
+
+
+
 @media(min-width:800px){
 .container-home-pg
 {
@@ -59,15 +61,14 @@ grid-template-areas:
 "pic pic pic form form form"
 "ft ft ft ft ft ft";
 }
-/*
+
 .photo1{
 grid-area:pic;
  text-align: left;
-}*/
+}
 
 }
 
-*/
 
 
 

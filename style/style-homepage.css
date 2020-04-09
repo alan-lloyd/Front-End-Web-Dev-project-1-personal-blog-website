@@ -38,6 +38,11 @@ box-shadow:10px 10px;
 .photo1{
 grid-area:pic;
  text-align: center;
+}  
+
+.photo-extra {
+  grid-area:pic;
+ text-align: right;
 }
 
 .subscriber-form{
@@ -50,43 +55,6 @@ grid-area:ft;
 }
  
  
-@media(min-width:900px){
-.container-home-pg{
-background-color:#eaf9e1;
-display:grid;
-grid-template-columns:100% ;
-grid-template-rows:10% 5% 38% 22% 15% 10%;
-grid-template-areas:
-"hd"
-"mpt"
-"art"
-"pics"
-"form"
-"ft";
-}
- 
-
- .photo1{
-grid-area:pics;
- text-align: left;
-}
-.photo-extra {
-  grid-area:pics;
- text-align: right;
-}
- 
-.home-pg-article{
-grid-area:art;
-border: 2px solid black;
-border-radius: 15px;
-text-align: center;
-box-shadow:10px 10px;
-}
-.home-page-article-paras{
-text-align: center;
-}
-} 
-
 
 h1{
    color:black;

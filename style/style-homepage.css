@@ -61,7 +61,35 @@ grid-template-areas:
 "ft ft ft ft ft ft";
 }
 
+.page-main-title{
+grid-area:mpt;
+text-align: center;
+}
+
+.header-items{
+grid-area:hd;
+}
+
+.home-pg-article{
+grid-area:art;
+border: 2px solid black;
+border-radius: 15px;
+text-align: center;
+box-shadow:10px 10px;
+}
+
+.photo1{
+grid-area:pic;
  
+}
+
+.subscriber-form{
+grid-area:form;
+}
+
+.footer-text{
+grid-area:ft;
+} 
 
 }
 

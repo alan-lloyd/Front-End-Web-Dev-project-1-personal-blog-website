@@ -44,8 +44,21 @@ grid-area:ft;
 }
 
 
-
-
+@media(min-width:800px){
+.container-home-pg
+{
+background-color:#eaf9e1;
+display:grid;
+grid-template-columns:50% 50%;
+grid-template-rows: 5% 5% 42% 35% 13%;
+grid-template-areas:
+"mpt mpt mpt mpt mpt mpt"
+"hd hd hd hd hd hd"
+"art art art art art art"
+"pic pic pic form form form"
+"ft ft ft ft ft ft";
+}
+}
 
 
 

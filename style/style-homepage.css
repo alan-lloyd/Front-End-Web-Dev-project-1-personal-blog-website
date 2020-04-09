@@ -44,12 +44,12 @@ grid-area:ft;
 }
 
 
- /*
+ 
 @media(min-width:800px){
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:50% 50%;
+grid-template-columns:50% auto;
 grid-template-rows:10% 13% 30% 36% 11%;
 grid-template-areas:
 "mpt mpt"
@@ -73,11 +73,7 @@ grid-template-areas:
 padding:3px;
  text-align:right;
 }
-.photo1 {
-  padding:5px;
-  background-repeat: no-repeat;
- float:left;
-}*/
+ 
 
 }
 

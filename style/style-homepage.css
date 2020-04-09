@@ -16,7 +16,7 @@ grid-template-areas:
 .home-page-article-paras{
 text-align: center;
 }
-}
+
 
 .page-main-title{
 grid-area:mpt;
@@ -47,7 +47,7 @@ grid-area:form;
 .footer-text{
 grid-area:ft;
 }
-
+}
  
  
 @media(min-width:940px){

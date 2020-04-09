@@ -66,9 +66,15 @@ grid-template-areas:
 }
  
 
- 
-  
- .extra-img-combo{
+ .photo1{
+grid-area:pic;
+ text-align: center;
+}
+.photo-extra {
+  grid-area:pic;
+ text-align: center;
+}
+/* .extra-img-combo{
 	padding:13px;
 	display:flex;
 	flex-direction:row;
@@ -80,7 +86,7 @@ margin:20px;
 
 .extra-img-combo{
 grid-area:pics;
-}
+}*/
 
 
 .extra-img-combo{

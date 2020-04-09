@@ -63,7 +63,11 @@ grid-template-areas:
 "form form"
 "ft ft";
 }
- 
+ .article-img-combo{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	margin:5px;
 }
 
  

@@ -55,11 +55,11 @@ h1{
    text-align: center;
   }
 
-p
+li  ul  p
  {
     color:black;
     text-align:left;
-    font-size:0.9em;
+    font-size:1.0em;
     font-family:verdana;
  }
 

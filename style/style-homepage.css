@@ -65,6 +65,10 @@ grid-template-areas:
 "ft ft";
 }
 
+.photo1{
+grid-area:pic;
+ text-align: center;
+}
 .photo-extra{
 grid-area:pic;
  text-align: center;

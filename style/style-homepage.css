@@ -49,7 +49,7 @@ grid-area:ft;
 .container-home-pg{
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:50% auto;
+grid-template-columns:100;
 grid-template-rows:13% 16% 30% 30% 11%;
 grid-template-areas:
 "mpt mpt mpt"

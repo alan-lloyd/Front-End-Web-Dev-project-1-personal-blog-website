@@ -29,7 +29,7 @@ grid-template-rows: 10fr 10fr 8fr 25fr 26fr 7fr;
 grid-template-areas:
 "hd hd hd hd"
 "mpt mpt mpt mpt"
-"aut aut pics pics"
+"aut aut aut aut"
 "art art art art"
 "pics pics pics pics"
 "ft ft ft ft";

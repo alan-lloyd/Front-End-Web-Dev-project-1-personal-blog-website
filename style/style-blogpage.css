@@ -71,7 +71,10 @@ grid-template-rows:50fr 50fr;
 grid-area:ft;
 }
 
-
+.text-align 
+  {
+  text-align: left;
+}
   
  
 

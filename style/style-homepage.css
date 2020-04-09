@@ -59,7 +59,15 @@ grid-template-areas:
 "pic form"
 "ft ft";
 }
-
+.header-items
+	{
+	font-size:1.5em;
+	padding:1px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	margin:3px;
+	}
 }
 
  */

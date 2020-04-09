@@ -62,8 +62,8 @@ grid-area:pics;
 
 .blog-pg-nested-grid{
 display:grid;
-grid-template-columns:25% 25% 25% 25%;
-grid-template-rows: 25% 25% 25% 25%;
+grid-template-columns:50fr 50fr;
+grid-template-rows:50fr 50fr;
 }
 
  

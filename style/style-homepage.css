@@ -55,7 +55,7 @@ grid-area:ft;
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:50% 50%;
-grid-template-rows:100px 100px 250px 150px 150px 150px;
+grid-template-rows:140px 140px 220px 140px 140px 120px;
 grid-template-areas:
 "hd hd"
 "mpt mpt"
@@ -84,12 +84,6 @@ padding:3px;
   padding:3px;
   margin:5px;
   background-repeat: no-repeat;
-}
-.home-pg-article{
-grid-area:art;
-border: 2px solid black;
-border-radius: 15px;
-box-shadow:10px 10px;
 }
 }
 

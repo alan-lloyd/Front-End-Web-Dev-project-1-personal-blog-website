@@ -57,11 +57,11 @@ display:grid;
 grid-template-columns:50% 50%;
 grid-template-rows:100fr 110px 320fr 240fr 130fr;
 grid-template-areas:
-"hd hd"
-"mpt mpt"
-"art pic"
-"form form"
-"ft ft";
+"hd hd hd hd hd"
+"mpt mpt mpt mpt mpt"
+"art art art pic pic"
+"form form form form form"
+"ft ft ft ft ft";
  
 }
 .header-items

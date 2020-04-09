@@ -67,6 +67,7 @@ grid-template-areas:
 	justify-content:space-evenly;
 	margin:5px;
 	}
+/*
 .form-item1, .form-item2, .form-item3, .form-item4
 {
 padding:3px;
@@ -76,7 +77,7 @@ padding:3px;
   padding:5px;
   background-repeat: no-repeat;
  float:left;
-}
+}*/
 
 }
 

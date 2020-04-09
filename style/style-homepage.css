@@ -73,7 +73,11 @@ grid-template-areas:
 padding:3px;
  text-align:right;
 }
- 
+ .photo1 {
+  padding:3px;
+  margin:5px;
+  background-repeat: no-repeat;
+}
 
 }
 

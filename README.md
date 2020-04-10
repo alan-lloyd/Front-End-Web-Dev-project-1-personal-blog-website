@@ -3,7 +3,7 @@ Home page + blog page using HTML &amp; CSS, using Flexbox and Grid Layout.
 
 Consists of homepage, which links to a second html "blog post" page by hyperlink. 
 
-<em>Files:</em>
+<bold>Files:</bold>
 
 1. HTML homepage - consists of:
 

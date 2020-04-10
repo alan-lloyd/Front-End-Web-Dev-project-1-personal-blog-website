@@ -2,14 +2,15 @@
 {
 background-color:#eaf9e1;
 display:grid;
-grid-template-columns:50% 50%;
-grid-template-rows: 6fr 2fr 22fr 20fr 6fr;
+grid-template-columns:100%;
+grid-template-rows: 6fr 2fr 15fr 15fr 15fr 6fr;
 grid-template-areas:
-"mpt mpt"
-"hd hd"
-"art art"
-"pic form"
-"ft ft";
+"mpt"
+"hd"
+"art"
+"pic"
+"form"
+"ft";
 }
 
 .page-main-title{

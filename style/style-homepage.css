@@ -1,75 +1,81 @@
-.container-home-pg
-{
-background-color:#eaf9e1;
-display:grid;
-grid-template-columns:100%;
-grid-template-rows: 6fr 2fr 15fr 15fr 15fr 6fr;
-grid-template-areas:
-"mpt"
-"hd"
-"art"
-"img"
-"form"
-"ft";
-}
+.container-home-pg   /*main container for homepage - arranged into single-column grid layout*/
+  {
+    background-color:#eaf9e1;
+    display:grid;
+    grid-template-columns:100%;
+    grid-template-rows: 6fr 2fr 15fr 15fr 15fr 6fr;
+    grid-template-areas:
+    "mpt"
+    "hd"
+    "art"
+    "img"
+    "form"
+    "ft";
+  }
 
-.page-main-title{
-grid-area:mpt;
-text-align: center;
-}
+/*includes title into grid layout*/
+.page-main-title
+  {
+    grid-area:mpt;
+    text-align: center;
+  }
 
-.header-items{
-grid-area:hd;
-}
+/*includes header, with 3 items in top left corner horizontally into grid layout*/
+.header-items
+  {
+    grid-area:hd;
+  }
 
-.home-pg-article{
-grid-area:art;
-border: 2px solid black;
-border-radius: 15px;
-text-align: center;
-box-shadow:10px 10px;
-}
- 
-.photo1{
-grid-area:img;
-} 
+/*includes main text into grid layout*/
+.home-pg-article
+  {
+    grid-area:art;
+    border: 2px solid black;
+    border-radius: 15px;  /*curved rectangular corners*/
+    text-align: center;
+    box-shadow:10px 10px;
+  }
 
-.subscriber-form{
-grid-area:form;
-}
+ /*includes page photo of museum into grid layout*/
+.photo1
+  {
+    grid-area:img;
+  }
 
-.footer-text{
-grid-area:ft;
-}
+/*includes online subscriber form into grid layout*/
+.subscriber-form
+  {
+    grid-area:form;
+  }
 
+/*includes footer text row into grid layout*/
+.footer-text
+  {
+    grid-area:ft;
+  }
 
-  
-.home-page-article-paras{
-text-align: center;
-}
- 
-
-
-
-
-h1{
-   color:black;
-   text-align: center;
-
+/*formatting re main text*/
+.home-page-article-paras
+  {
+    text-align: center;
+  }
+/*  general formatting for selected elements*/
+h1
+  {
+    color:black;
+    text-align: center;
   }
 
 p
- {
-    color:black;
-    text-align:left;
-    font-size:1.5em;
-    font-family:verdana;
- }
+   {
+      color:black;
+      text-align:left;
+      font-size:1.5em;
+      font-family:verdana;
+   }
 
- 
-
-
-figcaption {
-  display: block;
-font-weight: bold;
-}
+figcaption
+  {
+    display: block;
+    font-weight: bold;
+  }

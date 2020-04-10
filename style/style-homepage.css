@@ -68,3 +68,7 @@ li  ul  p
 .home-page-article-paras{
 text-align: center;
 }
+
+figcaption {
+  display: block;
+}

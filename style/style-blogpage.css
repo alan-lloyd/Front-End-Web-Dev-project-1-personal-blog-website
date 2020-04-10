@@ -1,27 +1,4 @@
-.blog-card
-  {
-    border: 2px solid black;
-    box-shadow: 5px 5px 20px;
-    margin:5px;
-    border-radius:10px;
-    text-align: center;
-  }
-
-
-.blog-text
-  {
-    border: 2px solid black;
-    box-shadow: 5px 5px 20px;
-    margin:5px;
-    border-radius:10px;
-  }
-
-.list-items
-  {
-    font-size:1.5em;
-    font-family:verdana;
-  }
-
+/* grid layout for header bar and social media bar (both have nested horizontal grid layouts below), author info, main article text, 4 photos, footer text */
 .blog-card
   {
     background-color:#eaf9e1;
@@ -73,6 +50,12 @@
     grid-area:pics;
   }
 
+.footer-text
+  {
+    grid-area:ft;
+  }
+
+/* nested 4 photo item grid layout */
 .blog-pg-nested-grid
   {
     display:grid;
@@ -80,8 +63,21 @@
     grid-template-rows:50fr 50fr;
   }
 
-
-.footer-text
+  /* main article container text formatting */
+.blog-card
   {
-    grid-area:ft;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px;
+    margin:5px;
+    border-radius:10px;
+    text-align: center;
+  }
+
+  /* formatting for main text  */
+.blog-text
+  {
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px;
+    margin:5px;
+    border-radius:10px;
   }

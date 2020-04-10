@@ -1,7 +1,5 @@
 # Front-End-Web-Dev-project1-personal-blog-website
-Home page + blog page using HTML &amp; CSS, using Flexbox and Grid Layout.
-
-Consists of homepage, which links to a second html "blog post" page by hyperlink. 
+<ul>Home page + blog page using HTML &amp; CSS, using Flexbox and Grid Layout.</ul>
 
 <bold>Files:</bold>
 

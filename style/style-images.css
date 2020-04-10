@@ -2,9 +2,9 @@
 .photo1 {
 background-image:
  url(../images/town-hall-2.jpg);
-    border: 2px solid black;
-vertical-align:center;
- margin:10px;
+  
+horizontal-align:middle;
+ margin:15px;
  background-repeat: no-repeat;
  height303px;
 width:630px; 

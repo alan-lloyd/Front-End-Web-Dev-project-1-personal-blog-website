@@ -3,8 +3,8 @@
 background-image:
  url(../images/town-hall-2.jpg);
     border: 2px solid black;
-vertical-align:middle;
- 
+vertical-align:center;
+ margin:10px;
  background-repeat: no-repeat;
  height303px;
 width:630px; 

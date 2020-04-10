@@ -1,18 +1,19 @@
+/* formatting for 3 header items - top left corner - horiz bar (a nested horiz grid layout) */
 .header-items
 	{
-	font-size:1.5em;
-	padding:3px;
-	display:flex;
-	flex-direction:row;
-	justify-content:space-evenly;
+		font-size:1.5em;
+		padding:3px;
+		display:flex;
+		flex-direction:row;
+		justify-content:space-evenly;
 	}
 
-
+/* formatting for 3 social media logos - top right corner - horiz bar (a nested horiz grid layout) */
 .social-media-items
 	{
-	font-size:1.5em;
-	padding:3px;
-	display:flex;
-	flex-direction:row-reverse;
-	justify-content:space-evenly;
+		font-size:1.5em;
+		padding:3px;
+		display:flex;
+		flex-direction:row-reverse;
+		justify-content:space-evenly;
 	}

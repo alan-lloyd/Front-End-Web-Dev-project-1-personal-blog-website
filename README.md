@@ -1,5 +1,5 @@
 # Front-End-Web-Dev-project1-personal-blog-website
-## Home page + blog page using HTML, CSS, Flexbox and Grid Layout
+## Home page + blog page using HTML, CSS, Flexbox and Grid Layout. Tested for mobile screen-size compatability using Chrome DevTools. Also checked for ARIA accessibility comptability.
 
  # Files:
 

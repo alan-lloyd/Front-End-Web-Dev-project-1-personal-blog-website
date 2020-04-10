@@ -3,11 +3,12 @@
 background-color:#eaf9e1;
 display:grid;
 grid-template-columns:100%;
-grid-template-rows: 6fr 2fr 15fr 15fr 6fr;
+grid-template-rows: 6fr 2fr 15fr 15fr 15fr 6fr;
 grid-template-areas:
 "mpt"
 "hd"
 "art"
+"img"
 "form"
 "ft";
 }

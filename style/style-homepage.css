@@ -46,6 +46,7 @@
 .subscriber-form
   {
     grid-area:form;
+    background-color:#8FBC8F;
   }
 
 /*includes footer text row into grid layout*/

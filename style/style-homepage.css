@@ -29,11 +29,10 @@ border-radius: 15px;
 text-align: center;
 box-shadow:10px 10px;
 }
-/*
+ 
 .photo1{
-grid-area:pic;
- vertical-align:middle;
-}*/
+grid-area:img;
+} 
 
 .subscriber-form{
 grid-area:form;

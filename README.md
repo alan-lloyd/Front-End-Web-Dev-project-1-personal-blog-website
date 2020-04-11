@@ -7,11 +7,11 @@
 
 (a) grid layout in six vertical parts - page header, page links bar, page main text, page image, subscriber html form, footer. 
 
-(b) one nested horizontal flexbox layout at top of page, for page links, formatted to the page center;
+(b) one nested horizontal flexbox layout at top of page, for page links, formatted to the page center.
 
 (c) one larger image file showing museum building.
 
-(d) footer row (text)
+(d) footer row (text).
  
 
 2. **HTML blogpage** - consists of:
